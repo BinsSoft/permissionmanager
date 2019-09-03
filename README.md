@@ -41,9 +41,7 @@ Next, add the service provider to `config/app.php`.
  ]
 ```
 
-That's it!  You're good to go.
-
-  
+ 
 
 ## Configuration
 ```
@@ -101,3 +99,8 @@ Permission::setRolePermission(1, 'admin_user_list', true);
 $permission = Permission::access(<role_id>);
 ```
 `$permission` will return `true` or `flase`
+
+#### That's it!  You're good to go.
+
+Please click on "Star" in github if it is usefull for you.
+

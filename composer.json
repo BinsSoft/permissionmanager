@@ -1,6 +1,7 @@
 {
     "name": "binssoft/permissionmanager",
     "description": "It is a permission manager library for laravel",
+    "keywords": ["laravel","Role", "permission", "userrole"],
     "type": "library",
     "require": {
         "php": "^7.2"
