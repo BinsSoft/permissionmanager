@@ -103,4 +103,3 @@ $permission = Permission::access(<role_id>);
 #### That's it!  You're good to go.
 
 Please click on "Star" in github if it is usefull for you.
-
