@@ -1,0 +1,16 @@
+{
+    "name": "binssoft/permissionmanager",
+    "description": "It is a permission manager library for laravel",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tonmoy Nandy",
+            "email": "tonmoy.nandy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
